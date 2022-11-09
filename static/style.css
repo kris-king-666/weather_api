@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+
+.header {
+    background-color: hsl(182, 56%, 45%);
+    color: white;
+    padding: 20px;
+}
+.searchbar {
+    margin: 30px;
+}
+.jumbitron {
+    border: solid 1px gray;
+    width: 20%;
+}
